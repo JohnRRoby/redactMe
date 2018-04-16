@@ -5,6 +5,6 @@ The PNG file is 50px by 20px - it was drawn to cover the name "Alice" as it's st
 
 If you wanted to redact a longer or shorter name, you'd use a longer or shorter bar. Same if your particular styling is taller or shorter, etc. etc.
 
-The HTML file assignes each case of "Alice" to <span class = "redactMe">, and the JS replaces each case of that class with blackbar.png.
+The HTML file assigns each case of the name "Alice" to <span class = "redactMe">, and the JS replaces each case of that class with blackbar.png.
   
-Quick and dirty, feel free to use or adapt or improve.
+Like I said, quick and dirty. Feel free to use or adapt or improve.
