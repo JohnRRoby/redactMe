@@ -1,4 +1,4 @@
-// redaction script. this works.
+// the redaction script.
 
 function init(){
   var replace = document.getElementsByClassName("redactMe");
