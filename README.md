@@ -1,2 +1,10 @@
 # redactMe
 A quick JavaScript to replace a string with a black redaction bar.
+
+The PNG file is 50px by 20 px - it was drawn to cover the name "Alice" as it's styled in the html example file.
+
+If you wanted to redact a longer or shorter name, you'd use a longer or shorter bar. Same if your particular styling is taller or shorter, etc. etc.
+
+The HTML file assignes each case of "Alice" to <span class = "redactMe">, and the JS replaces each case of that class with blackbar.png.
+  
+Quick and dirty, feel free to use or adapt or improve.
