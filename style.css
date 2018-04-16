@@ -1,0 +1,21 @@
+/* stylesheet for redaction test */
+@import url('https://fonts.googleapis.com/css?family=Muli:900|Noto+Serif|Open+Sans+Condensed:700 |Open+Sans+Condensed:300');
+
+
+p {
+  font-family: 'Noto Serif', serif;
+  font-size: 20px;
+  text-indent: 25px;
+  padding-left: 30px !important;
+  padding-right: 350px !important;
+  color: black !important;
+}
+
+h3 {
+  font-family: "Muli", sans-serif !important;
+  font-size: 24px !important;
+  font-weight: 900 !important;
+  line-height: 110% !important;
+  text-align: left !important;
+  padding-left: 30px !important;
+}
